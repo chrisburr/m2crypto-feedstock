@@ -9,13 +9,15 @@ source:
   sha256: 1542c18e3ee5c01db5031d0b594677536963e3f54ecdf5315aeecb3a595b4dc1
 
 build:
-  number: 0
+  number: 1
+  script: '$PYTHON -m pip install --global-option="build_ext" --global-option="--openssl=$PREFIX" . -vv'
 
 requirements:
   build:
     - {{ compiler("c") }}
   host:
     - python
+    - pip
     - swig >=2.0.4
     - setuptools
     - openssl
