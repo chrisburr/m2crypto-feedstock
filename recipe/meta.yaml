@@ -16,7 +16,8 @@ requirements:
     - {{ compiler("c") }}
   host:
     - python
-    - swig >=2.0.4
+    - pip
+    - swig >=4  # Version 4 required for PyPy support
     - setuptools
     - openssl
   run:
