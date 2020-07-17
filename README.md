@@ -43,108 +43,38 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>linux_aarch64_python3.6.____cpython</td>
+              <td>linux</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5129&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=linux&configuration=linux_aarch64_python3.6.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=linux&configuration=linux_" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_python3.7.____cpython</td>
+              <td>linux_aarch64</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5129&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=linux&configuration=linux_aarch64_python3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=linux&configuration=linux_aarch64_" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_aarch64_python3.8.____cpython</td>
+              <td>linux_ppc64le</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5129&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=linux&configuration=linux_aarch64_python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=linux&configuration=linux_ppc64le_" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_ppc64le_python3.6.____cpython</td>
+              <td>osx</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5129&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=linux&configuration=linux_ppc64le_python3.6.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=osx&configuration=osx_" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_ppc64le_python3.7.____cpython</td>
+              <td>win</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5129&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=linux&configuration=linux_ppc64le_python3.7.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_ppc64le_python3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5129&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=linux&configuration=linux_ppc64le_python3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_python3.6.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5129&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=linux&configuration=linux_python3.6.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_python3.7.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5129&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=linux&configuration=linux_python3.7.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_python3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5129&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=linux&configuration=linux_python3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_python3.6.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5129&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=osx&configuration=osx_python3.6.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_python3.7.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5129&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=osx&configuration=osx_python3.7.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_python3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5129&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=osx&configuration=osx_python3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>win_python3.6.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5129&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=win&configuration=win_python3.6.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>win_python3.7.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5129&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=win&configuration=win_python3.7.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>win_python3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5129&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=win&configuration=win_python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/m2crypto-feedstock?branchName=master&jobName=win&configuration=win_" alt="variant">
                 </a>
               </td>
             </tr>
